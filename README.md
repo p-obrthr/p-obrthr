@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Hi I'm Pascal and a junior developer working professionally with .NET / C#.</br>
+🧪 Outside of work, I'm diving into Go and Rust out of curiosity and a passion for learning new technologies.</br>
+🚀 Always growing, to work on skills.</br>
 
 <!--
 **p-obrthr/p-obrthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,18 +1,20 @@
-👋 Hi I'm Pascal and a junior developer working professionally with .NET / C#.</br>
-🧪 Outside of work, I'm diving into Go and Rust out of curiosity and a passion for learning new technologies.</br>
-🚀 Always growing, working on my skills.</br>
+Hi there 👋 I'm Pascal
 
-<!--
-**p-obrthr/p-obrthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Working professionally as a .NET / C# developer
+- 🚀 Always improving and experimenting with new tools & languages
+
+---
+
+### 🛠️ Private Stack / Interests
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="32"/>
+</p>
